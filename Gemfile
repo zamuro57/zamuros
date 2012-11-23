@@ -22,6 +22,25 @@ end
 
 gem 'jquery-rails'
 
+gem 'heroku'
+gem 'thin'
+gem 'devise'
+gem 'devise-encryptable'
+gem "omniauth"
+gem "omniauth-facebook"
+gem "omniauth-twitter"
+gem "cancan"
+gem "stringex", :git => "git://github.com/rsl/stringex.git"
+gem 'activeadmin'
+gem "meta_search",    '>= 1.1.0.pre'
+gem "paperclip"
+gem "paperclipftp"
+gem 'pjax_rails', :git => "git://github.com/highercomve/pjax_rails.git"
+gem 'html5_validators'
+gem 'curb'
+gem "ckeditor"
+gem 'paperclipdropbox'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
