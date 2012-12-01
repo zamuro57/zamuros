@@ -40,6 +40,7 @@ gem 'html5_validators'
 gem 'curb'
 gem "ckeditor"
 gem 'paperclipdropbox'
+gem "zurb-foundation"
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
