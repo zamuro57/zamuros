@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
+<<<<<<< .merge_file_SunkVN
 gem  rails '3.2.11'
+=======
+gem rails '3.2.11'
+>>>>>>> .merge_file_I9OuGN
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
