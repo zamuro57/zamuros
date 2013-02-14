@@ -24,6 +24,7 @@ end
 gem 'jquery-rails'
 
 gem 'heroku'
+gem 'newrelic_rpm'
 gem 'thin'
 gem 'devise'
 gem 'devise-encryptable'
